@@ -28,7 +28,7 @@ Playground.args = {
   title: '+ $200M',
   description: '45% this week',
   trend: [1, 8, 30, 45, 50],
-  onPress: () => { console.log('hahaha') },
+  onPress: () => {},
   badgeLabel: '+10'
 };
 enableAddons(Playground, ['controls', 'actions', 'a11y', 'backgrounds']);
